@@ -1,0 +1,32 @@
+{
+  "title": "Build a YouTube Video Details Section in React",
+  "views": "10 k views",
+  "uploaded": "3 days ago",
+  "likes": 800,
+  "channel": {
+    "name": "CodeWithVaishnavi",
+    "subscribers": "220K subscribers",
+    "avatar": "https://img.freepik.com/premium-vector/v-initials-logo-design-initial-letter-logo-creative-luxury-logo-template_773552-140.jpg"
+  },
+  "description": "This is my Youtube description clone. I have used react and bootstrap to create this project. I have used react-icons for icons and I have used local storage(JSON file ) to store the subscriptions status of the channel.",
+  "comments": [
+    {
+      "id": 1,
+      "user": "Delsita Dsouza",
+      "avatar": "https://www.syracuse.com/resizer/rlUXAu_pWsdiUy0i-YbWaEZfUdU=/arc-anglerfish-arc2-prod-advancelocal/public/ZGER2533TREVNES2LOZILX5MQY.png",
+      "text": "Amazing explanation! This really helped me understand React UI states."
+    },
+    {
+      "id": 2,
+      "user": "Saniya Sheik",
+      "avatar": "https://media.istockphoto.com/id/184356409/photo/lily.jpg?s=612x612&w=0&k=20&c=kChpd49JnxGdcx3ID8qiv7cYo6s8YbI_JUOEdpvW42I=",
+      "text": "Waiting for part 2. Great job!"
+    },
+    {
+      "id": 3,
+      "user": "Arshveer Kaur",
+      "avatar":"https://i1.sndcdn.com/avatars-wTbtgpP8EDeM6HVL-X89qdA-t1080x1080.jpg",
+      "text": "Very clean and beginner-friendly tutorial."
+    }
+  ]
+}
